@@ -3,8 +3,8 @@
 // iProtect
 //
 // Created by Helen Li on 7/5/21.
-// Used example code from Aaron Wright's tutorial published on Medium, titled "Create a macOS Menu Bar
-// Application Using SwiftUI."
+// Used example code from Aaron Wright's tutorial published on Medium,
+// titled "Create a macOS Menu Bar Application Using SwiftUI."
 //
 
 import Cocoa
